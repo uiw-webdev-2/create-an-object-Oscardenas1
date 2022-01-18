@@ -5,4 +5,4 @@ age: 23,
 major: "Engineering",
 
 };
-console.log(Student.firstName)
+console.log(Student.firstName);
